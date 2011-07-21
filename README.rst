@@ -33,4 +33,4 @@ Scenario Solutions Should
 
 ----
 
-More in `IDEAS <https://github.com/ssspiochld/git_ws/tree/master/IDEAS.md>`_ file.
+More in the `IDEAS <https://github.com/ssspiochld/git_workshop/tree/master/IDEAS.rst>`_ file.
