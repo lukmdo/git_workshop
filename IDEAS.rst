@@ -1,7 +1,7 @@
 Scenarios List                    
 ==============
 
-- Things_Got_Wrong -- `git blame` and `git bisect`                    
+- Things_Got_Wrong -- ``git blame`` and ``git bisect``                    
 
 Extras
 ======
