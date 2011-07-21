@@ -1,25 +1,25 @@
 # Materials and Plans for the [Git Workshop](http://www.ignitekrk.com/events/17546014/)
 
-## Scenarios should
+## Scenarios Should
 
-- be created as a clan `branch` using `scenario_NAME` convention:
+Be created as a clan `branch` using `scenario_NAME` convention:
 
     git symbolic-ref HEAD refs/heads/scenario_NAME
     rm .git/index
     git clean -fdx
 
-- have a `README` file with a scenario description
-- have a `scenario.txt` with enumerated list of steps already taken(history) and what is expected 
-- `repo` directory with all required files
+Have a `README` file with a scenario description
+Have a `scenario.txt` with enumerated list of steps already taken(history) and what is expected 
+Have a `repo` directory with all required files
 
-## Scenario Solutions
+## Scenario Solutions Should
 
-- should be also a branch with `busted_scenario_NAME`
+Be also a branch with `busted_scenario_NAME`
 
     git co -b busted_scenario_NAME
 
-- should have a `scenario_solution.txt` explaining steps taken to meet the expectations
-- all the steps taken should get committed    
+Have a `scenario_solution.txt` explaining steps taken to meet the expectations
+Have all the steps taken be committed    
 
 
 ---
